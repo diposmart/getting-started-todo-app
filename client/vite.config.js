@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     allowedHosts: [
-      'dbsprogramming.duckdns.org',
+      'dipoforcloud.duckdns.org',
       'localhost',
     ],
   },
